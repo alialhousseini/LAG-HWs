@@ -8,7 +8,7 @@ Involves conducting a Principal Components Analysis (PCA) on a dataset of custom
 ### Homework 2: Google PageRank Algorithm
 The homework is based on the article "The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google" by Kurt Bryan and Tanya Leise. This assignment explores the mathematical concepts behind Google's PageRank algorithm, focusing on how Google uses linear algebra to rank the importance of web pages. The homework involves understanding the construction and analysis of the PageRank matrix, dealing with challenges such as dangling nodes and non-unique rankings, and applying modifications to ensure unique, sensible rankings. Exercises include theoretical questions and practical tasks involving the computation of PageRank using given or constructed link matrices. This project offers a deep dive into applied linear algebra, emphasizing its real-world application in search engine technology.
 
-### Homework 3: Image Compression Benchmarking and Eigenvalues Approximation
+### Homework 3: Image Compression Benchmarking and Eigenvalues Approximation (Notebook is not shared due to privacy&policy constraints)
 The goal is to explore and implement various image compression techniques, focusing on Singular Value Decomposition (SVD), Principal Component Analysis (PCA), and k-means clustering. The assignment is divided into several key sections, each with its objectives and requirements:
 
 Introduction and Setup: Students are introduced to the necessary libraries and configurations for the assignment, including numpy, pandas, matplotlib, cv2, and sklearn. This section sets the groundwork for implementing the compression algorithms and evaluating their performance.
